@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliverripps
 - 👀 I’m interested in Software Engineering, particularly utilizing code to solve real world problems.
-- 🌱 I’m currently learning about reactive web applications as well as React Native, Swift, and Swift UI
+- 🌱 I’m currently working on applying advanced metrics to college athletics
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 You can reach me at oliver.ripps@gmail.com
 
